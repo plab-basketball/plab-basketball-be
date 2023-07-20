@@ -1,3 +1,3 @@
 # plab-basketball-be
 
-https://www.erdcloud.com/d/rNMEZo6MbeqvNCn3j
+ERD 주소: https://www.erdcloud.com/d/rNMEZo6MbeqvNCn3j
